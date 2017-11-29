@@ -1,5 +1,15 @@
 # Change Log
 
+## [1.3.1]
+
+### Fixes
+
+- Lots of stuff!
+
+### Additions
+
+- Stuff!
+
 ## [0.2.0] - TBD
 
 ### Additions
