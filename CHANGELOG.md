@@ -33,5 +33,7 @@
 
 Initial release of libwhereami; Supported platforms are Linux, Windows, and MacOS.
 
+### Additions
+
 - Data sources for WMI, DMI, CPUID, cgroups, system_profiler
 - Detectors for Docker, Hyper-V, KVM, LXC, OpenVZ, VirtualBox, VMWare
