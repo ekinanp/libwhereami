@@ -84,6 +84,7 @@ namespace whereami { namespace sources {
 
         if (lparstat_path.empty()) {
             LOG_DEBUG("lparstat executable not found");
+            LOG_WARNING("BLAH MESSAGE FOR TRANSLATION")
             return false;
         }
 
