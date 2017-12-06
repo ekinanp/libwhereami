@@ -87,6 +87,11 @@ msgstr ""
 msgid "lparstat executable not found"
 msgstr ""
 
+#. warning
+#: lib/src/sources/lparstat_source.cc
+msgid "BLAH MESSAGE FOR TRANSLATION"
+msgstr ""
+
 #. debug
 #: lib/src/sources/lparstat_source.cc
 msgid "Error while running lparstat ({1})"
